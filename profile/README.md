@@ -1,4 +1,5 @@
-# BeeBlast | Play-to-Earn Metaverse
+![BeeBlast](https://github.com/BeeBlast/.github/assets/67492324/bce7bd8a-9f6f-4487-9b9e-7759fc35849b)
+# BeeBlast | Play-to-Earn Metaverse!
 
 **_Multilevel Referral Play-to-Earn Metaverse NFT platform._**
 
